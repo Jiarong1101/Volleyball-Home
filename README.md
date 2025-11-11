@@ -1,5 +1,5 @@
 # 🏐 Volleyball Home
-Volleyball Home 是一款智慧排球訓練系統，結合 **MediaPipe 姿勢辨識**、**AWS Rekognition 機器學習**、  
+Volleyball Home 是一款排球訓練系統，結合 **MediaPipe 姿勢辨識**、**AWS Rekognition 機器學習**、  
 以及 **Android App 前端介面**，讓使用者能即時辨識排球動作並獲得分數或訓練回饋。
 
 > ⚠️ 本版本僅作為展示與紀錄用途，並非完整可執行系統。  
