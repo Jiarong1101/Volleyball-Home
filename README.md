@@ -32,11 +32,8 @@ Volleyball Home 是一款智慧排球訓練系統，結合 **MediaPipe 姿勢辨
 ## 📺 Demo 影片
 | 類別 | 連結 |
 |------|------|
-| 🎥 系統總覽展示 | [YouTube 影片](https://www.youtube.com/watch?v=SZa2HfR-9Xc) |
-| 🧍 骨架偵測 Demo | [YouTube 影片](https://www.youtube.com/watch?v=Lx9Y8ZnkHkc) |
-| 📱 App 介面操作 | [YouTube 影片](https://www.youtube.com/watch?v=oHSesteFK5c) |
+| 🎥 系統總覽展示 | [YouTube 影片](https://www.youtube.com/watch?v=U11AAnBjDAo) |
 
-（以上連結取自系統移交文件第 20 頁）
 
 ---
 
@@ -53,10 +50,17 @@ Volleyball Home 是一款智慧排球訓練系統，結合 **MediaPipe 姿勢辨
 ---
 
 ## 👩‍💻 專案成員
-- 張家榕 (Jia-Rong Chang)
-- [其他組員姓名，如有請補上]
+- 張家榕
+- 楊澤宥
+- 蔡東穎
+- 俞呈翰
+- 胡志碩
 
 ---
+
+## 📣 專案榮譽
+🏆 入圍 「國際 ICT 創新服務獎」全國決賽
+🥉 榮獲 「東吳大學專題競賽」第三名
 
 ## ⚠️ 注意事項
 - 本 Repository 主要用於展示成果與專題架構，程式並非完整可執行版本。
