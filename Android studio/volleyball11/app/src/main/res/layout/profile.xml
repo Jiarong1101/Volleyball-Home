@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="160dp"
+        android:layout_height="46dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="21dp"
+        android:gravity="top"
+        android:text="個人專區"
+        android:textColor="@color/black"
+        android:textSize="30dp" />
+
+
+    <View
+        android:id="@+id/handsome"
+        android:layout_width="113dp"
+        android:layout_height="128dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="282dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/handsome" />
+
+    <Button
+        android:id="@+id/personal1"
+        android:layout_width="392dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="170dp"
+        android:background="@drawable/personal1"
+        android:elevation="4dp" />
+
+    <Button
+        android:id="@+id/personal2"
+        android:layout_width="392dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="290dp"
+        android:background="@drawable/personal2"
+        />
+
+    <Button
+        android:id="@+id/personal3"
+        android:layout_width="392dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="410dp"
+        android:background="@drawable/personal3"
+        />
+
+    <Button
+        android:id="@+id/personal4"
+        android:layout_width="392dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="525dp"
+        android:background="@drawable/personal4" />
+
+
+    <Button
+        android:id="@+id/friends"
+        android:layout_width="67dp"
+        android:layout_height="67dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/friends">
+
+    </Button>
+
+    <Button
+        android:id="@+id/volleyballB"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="113dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/volleyball">
+
+    </Button>
+
+    <Button
+        android:id="@+id/profile"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="215dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/profileb">
+
+    </Button>
+
+    <Button
+        android:id="@+id/shop"
+        android:layout_width="69dp"
+        android:layout_height="69dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="316dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/shop">
+
+    </Button>
+
+
+
+</RelativeLayout>

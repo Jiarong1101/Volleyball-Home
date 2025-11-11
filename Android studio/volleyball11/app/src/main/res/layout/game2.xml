@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <View
+        android:id="@+id/場地"
+        android:layout_width="428dp"
+        android:layout_height="660dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="-24dp"
+        android:background="@drawable/place">
+    </View>
+
+
+    <View
+        android:id="@+id/some_id"
+        android:layout_width="149dp"
+        android:layout_height="149dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="279dp"
+        android:layout_marginTop="488dp"
+        android:background="@drawable/youngboy" />
+
+
+    <View
+        android:id="@+id/rectangle_3"
+        android:layout_width="220dp"
+        android:layout_height="70dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="456dp"
+        android:background="@drawable/pink" />
+
+    <TextView
+        android:id="@+id/word"
+        android:layout_width="220dp"
+        android:layout_height="70dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="456dp"
+        android:text="首先我們要了解    排球發球的原理！"
+        android:textColor="@color/black"
+        android:textSize="25dp">
+
+    </TextView>
+
+    <Button
+        android:id="@+id/arrows_right"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="185dp"
+        android:layout_marginTop="522dp"
+        android:background="@drawable/arrow"
+        android:clipToOutline="true" />
+
+    <Button
+        android:id="@+id/friends"
+        android:layout_width="67dp"
+        android:layout_height="67dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/friends">
+
+    </Button>
+
+    <Button
+        android:id="@+id/volleyballB"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="113dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/volleyballb">
+
+    </Button>
+
+    <Button
+        android:id="@+id/profile"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="215dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/profile">
+
+    </Button>
+
+    <Button
+        android:id="@+id/shop"
+        android:layout_width="69dp"
+        android:layout_height="69dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="316dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/shop">
+
+    </Button>
+
+</RelativeLayout>

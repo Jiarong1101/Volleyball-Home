@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/drawable/circle_blue.xml" value="0.1" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/drawable/circle_red.xml" value="0.1" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/Activity_Main.xml" value="0.3776041666666667" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/Forget.xml" value="0.33" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/Register.xml" value="0.33" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/concept.xml" value="0.22" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/forget.xml" value="0.33" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/friend.xml" value="0.25" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/friend1.xml" value="0.25" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/friend2.xml" value="0.25" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/friend3.xml" value="0.25" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/game1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/game2.xml" value="0.33" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/game3.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/hall.xml" value="0.25" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/list_item.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/logining.xml" value="0.25" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/loginlater.xml" value="0.18" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/menu.xml" value="0.22" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/profile.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/recycler_view.xml" value="0.2535452322738386" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/recyclerview.xml" value="0.274609375" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/register.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/s.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/shop.xml" value="0.25" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/tactical.xml" value="0.18" />
+        <entry key="..\:/Users/qsczs/AndroidStudioProjects/volleyball11/app/src/main/res/layout/volleyball.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
